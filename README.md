@@ -7,7 +7,7 @@ In order to extract the dataset, transform the data, connect to an AWS RDS insta
 
 ## Results
 
-* How many Vine reviews and non-Vine reviews were there?
+* How many Vine reviews and non-Vine reviews were there? *
 
 - Vine reviews <p align="center">
 
@@ -26,7 +26,7 @@ In order to extract the dataset, transform the data, connect to an AWS RDS insta
 <br>
 
 
-* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? *
 
 - 5 Star Vine reviews <p align="center">
 
@@ -44,7 +44,7 @@ In order to extract the dataset, transform the data, connect to an AWS RDS insta
 
 <br>
 
-* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? *
 
 - Percentage of Vine reviews with 5 Stars <p align="center">
 
